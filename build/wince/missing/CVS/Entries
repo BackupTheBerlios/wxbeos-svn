@@ -1,0 +1,86 @@
+D/AGL////
+D/Carbon////
+D/CoreFoundation////
+D/CoreServices////
+D/GL////
+D/OpenGL////
+D/X11////
+D/Xm////
+D/ext////
+D/gdk////
+D/gtk////
+D/machine////
+D/pango////
+D/sys////
+/ATSUnicode.h/1.1/Sat May 20 21:31:43 2006//TWX_2_8_0
+/Appearance.h/1.1/Sat May 20 21:31:44 2006//TWX_2_8_0
+/AvailabilityMacros.h/1.1/Sat May 20 21:31:44 2006//TWX_2_8_0
+/CFString.h/1.1/Sat May 20 21:31:44 2006//TWX_2_8_0
+/CodeFragments.h/1.1/Sat May 20 21:31:44 2006//TWX_2_8_0
+/ControlDefinitions.h/1.1/Sat May 20 21:31:45 2006//TWX_2_8_0
+/Controls.h/1.1/Sat May 20 21:31:45 2006//TWX_2_8_0
+/CoreServices.h/1.1/Sat May 20 21:31:45 2006//TWX_2_8_0
+/DateTime.h/1.1/Sat May 20 21:31:45 2006//TWX_2_8_0
+/Debugging.h/1.1/Sat May 20 21:31:45 2006//TWX_2_8_0
+/DriverServices.h/1.1/Sat May 20 21:31:46 2006//TWX_2_8_0
+/FixMath.h/1.1/Sat May 20 21:31:46 2006//TWX_2_8_0
+/Folders.h/1.1/Sat May 20 21:31:46 2006//TWX_2_8_0
+/Gestalt.h/1.1/Sat May 20 21:31:46 2006//TWX_2_8_0
+/InternetConfig.h/1.1/Sat May 20 21:31:47 2006//TWX_2_8_0
+/LowMem.h/1.1/Sat May 20 21:31:47 2006//TWX_2_8_0
+/MacHeaders.c/1.1/Sat May 20 21:31:47 2006//TWX_2_8_0
+/MoreFilesX.h/1.1/Sat May 20 21:31:47 2006//TWX_2_8_0
+/OpenTptInternet.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/OpenTransport.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/OpenTransportProviders.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/PMApplication.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/PalmOS.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/Printing.h/1.1/Sat May 20 21:31:48 2006//TWX_2_8_0
+/Quickdraw.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/StringMgr.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/SystemMgr.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/TextCommon.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/TextEncodingConverter.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/TimeMgr.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/Timer.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/_mingw.h/1.1/Sat May 20 21:31:49 2006//TWX_2_8_0
+/agl.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/alloc.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/ansi_prefix.mach.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/clib.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/dir.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/dirent.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/dl.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/dlfcn.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/expat_config.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/fab.h/1.1/Sat May 20 21:31:50 2006//TWX_2_8_0
+/fp.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/grp.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/gsocket.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/hash_map/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/hash_set/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/iconv.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/langinfo.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/m68881.h/1.1/Sat May 20 21:31:51 2006//TWX_2_8_0
+/mem.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/mgraph.hpp/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/msl_c_version.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/os2.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/os2def.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/pmapi.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/pmstddlg.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/pngusr.h/1.1/Sat May 20 21:31:52 2006//TWX_2_8_0
+/print.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/pwd.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/stdint.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/strings.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/tcpustd.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/unistd.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/unix.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/unixio.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/utils.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/values.h/1.1/Sat May 20 21:31:53 2006//TWX_2_8_0
+/w32api.h/1.1/Sat May 20 21:31:54 2006//TWX_2_8_0
+/wcstr.h/1.1/Sat May 20 21:31:54 2006//TWX_2_8_0
+/widec.h/1.1/Mon Nov 27 10:56:37 2006//TWX_2_8_0
+/wtime.h/1.1/Sat May 20 21:31:54 2006//TWX_2_8_0
