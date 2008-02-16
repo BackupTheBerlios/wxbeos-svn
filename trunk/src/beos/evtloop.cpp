@@ -63,9 +63,10 @@ wxEventLoopImpl::wxEventLoopImpl()  :
 
 void wxEventLoopImpl::ArgvReceived(int32 argc, char **argv)
 {
+	int nargs = (int)argc;
 //knorr!!
 //now we mut pass arguments to wxApp
-	wxTheApp->Initialize((int)argc, argv);
+	wxTheApp->Initialize(nargs, argv);
 }
 
 void wxEventLoopImpl::Pulse()
@@ -140,4 +141,5 @@ bool wxEventLoop::Dispatch()
     wxCHECK_MSG( IsRunning(), FALSE, _T("can't call Dispatch() if not running") );
     return TRUE;
 }
+
 

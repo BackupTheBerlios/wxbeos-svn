@@ -106,13 +106,15 @@ wxString wxFont::GetFaceName() const
 int wxFont::GetFamily() const
 {
 	wxCHECK_MSG( Ok(), 0, wxT("invalid font") );
-	return fnt->FamilyAndStyle();
+#warning use font_which
+//	return fnt->FamilyAndStyle();
 }
 
 int wxFont::GetStyle() const
 {
 	wxCHECK_MSG( Ok(), 0, wxT("invalid font") );	
-	return fnt->FamilyAndStyle();
+#warning use ->Face()
+//	return fnt->FamilyAndStyle();
 }
 
 int wxFont::GetWeight() const
@@ -168,13 +170,15 @@ void wxFont::SetPointSize(int pointSize)
 void wxFont::SetFamily(int family)
 {
 	Unshare();
-	fnt->SetFamilyAndStyle(family);
+#warning private
+//	fnt->SetFamilyAndStyle(family);
 }
 
 void wxFont::SetStyle(int style)
 {
 	Unshare();
-	fnt->SetFamilyAndStyle(style);
+#warning private
+//	fnt->SetFamilyAndStyle(style);
 }
 
 void wxFont::SetWeight(int weight)
